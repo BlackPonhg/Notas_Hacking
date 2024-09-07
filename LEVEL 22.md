@@ -1,6 +1,6 @@
 
 ## Objetivo
-The password for the next level is stored in the file **data.txt** in one of the few human-readable strings, preceded by several ‘=’ characters.
+A program is running automatically at regular intervals from **cron**, the time-based job scheduler. Look in **/etc/cron.d/** for the configuration and see what command is being executed.
 
 ## Datos de acceso al nivel
 Servidor: bandit9@bandit.labs.overthewire.org -p 2220

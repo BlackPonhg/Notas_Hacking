@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LEVEL 22.md",
+                "file": "LEVEL 27.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LEVEL 22.md",
+                "file": "LEVEL 27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LEVEL 22.md",
+                "file": "LEVEL 27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LEVEL 22.md"
+                "file": "LEVEL 27.md"
               }
             }
           }
@@ -168,6 +168,12 @@
   },
   "active": "8486b7c7d6bd1989",
   "lastOpenFiles": [
+    "LEVEL 26.md",
+    "LEVEL 25.md",
+    "LEVEL 24.md",
+    "LEVEL 23.md",
+    "LEVEL 22.md",
+    "LEVEL 27.md",
     "LEVEL 21.md",
     "LEVEL 20.md",
     "LEVEL 19.md",
@@ -175,7 +181,6 @@
     "LEVEL 17.md",
     "LEVEL 16.md",
     "LEVEL 10.md",
-    "LEVEL 22.md",
     "LEVEL 9.md",
     "LEVEL 8.md",
     "LEVEL 7.md",
@@ -189,7 +194,6 @@
     "LEVEL 0 - 1.md",
     "LEVEL 0.md",
     "Untitled.md",
-    "Retos",
-    "Welcome.md"
+    "Retos"
   ]
 }
