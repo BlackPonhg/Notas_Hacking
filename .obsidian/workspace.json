@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time Machine.md",
+                "file": "picobrowser.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Time Machine.md",
+                "file": "picobrowser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Time Machine.md",
+                "file": "picobrowser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time Machine.md"
+                "file": "picobrowser.md"
               }
             }
           }
@@ -168,9 +168,19 @@
   },
   "active": "8486b7c7d6bd1989",
   "lastOpenFiles": [
+    "Pasted image 20240918142510.png",
+    "Clientsideagain.md",
+    "picobrowser.md",
+    "Pasted image 20240918140810.png",
+    "dont-use-client-side.md",
+    "Pasted image 20240918133202.png",
+    "logon.md",
+    "Pasted image 20240918105210.png",
+    "where are the robots.md",
+    "Pasted image 20240918102255.png",
+    "Time Machine.md",
     "Pasted image 20240917224227.png",
     "Super SSH.md",
-    "Time Machine.md",
     "Pasted image 20240917223947.png",
     "repetitions.md",
     "Pasted image 20240917223730.png",
@@ -182,28 +192,18 @@
     "Blame Game.md",
     "Pasted image 20240917223126.png",
     "binhexa.md",
-    "Pasted image 20240917222819.png",
     "Binary Search.md",
-    "Pasted image 20240917222532.png",
     "fixme 2.md",
     "Big Zip.md",
     "Bases.md",
     "CodeBook.md",
     "useless.md",
-    "Pasted image 20240917221550.png",
     "Special.md",
-    "Pasted image 20240917220954.png",
     "Serpentine.md",
-    "Pasted image 20240917220554.png",
     "PW Crack 3.md",
     "plumbing.md",
     "Permissions.md",
     "chrono.md",
-    "PW crack 2.md",
-    "Based.md",
-    "ASCII Numbers.md",
-    "Lets Warm Up.md",
-    "what's a net cat.md",
     "Untitled.canvas",
     "Actividad-8.pdf",
     "Retos"
