@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JaWT Scratchpad.md",
+                "file": "Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JaWT Scratchpad.md",
+                "file": "Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JaWT Scratchpad.md",
+                "file": "Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JaWT Scratchpad.md"
+                "file": "Scavenger Hunt.md"
               }
             }
           }
@@ -168,11 +168,17 @@
   },
   "active": "8486b7c7d6bd1989",
   "lastOpenFiles": [
+    "Pasted image 20240923225605.png",
+    "GET aHEAD.md",
+    "Scavenger Hunt.md",
+    "Pasted image 20240923224907.png",
+    "Cookies.md",
+    "Pasted image 20240923222936.png",
+    "JaWT Scratchpad.md",
     "Pasted image 20240923211556.png",
     "Pasted image 20240923211545.png",
     "Pasted image 20240923205548.png",
     "Irish-Name-Repo 3.md",
-    "JaWT Scratchpad.md",
     "Pasted image 20240923204745.png",
     "Irish-Name-Repo 1.md",
     "Irish-Name-Repo 2.md",
@@ -183,11 +189,8 @@
     "Clientsideagain.md",
     "Pasted image 20240918140810.png",
     "dont-use-client-side.md",
-    "Pasted image 20240918133202.png",
     "logon.md",
-    "Pasted image 20240918105210.png",
     "where are the robots.md",
-    "Pasted image 20240918102255.png",
     "Time Machine.md",
     "Super SSH.md",
     "repetitions.md",
@@ -201,9 +204,6 @@
     "Big Zip.md",
     "Bases.md",
     "CodeBook.md",
-    "useless.md",
-    "Special.md",
-    "Serpentine.md",
     "Untitled.canvas",
     "Actividad-8.pdf",
     "Retos"
