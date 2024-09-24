@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picobrowser.md",
+                "file": "JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picobrowser.md",
+                "file": "JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picobrowser.md",
+                "file": "JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picobrowser.md"
+                "file": "JaWT Scratchpad.md"
               }
             }
           }
@@ -168,9 +168,19 @@
   },
   "active": "8486b7c7d6bd1989",
   "lastOpenFiles": [
+    "Pasted image 20240923211556.png",
+    "Pasted image 20240923211545.png",
+    "Pasted image 20240923205548.png",
+    "Irish-Name-Repo 3.md",
+    "JaWT Scratchpad.md",
+    "Pasted image 20240923204745.png",
+    "Irish-Name-Repo 1.md",
+    "Irish-Name-Repo 2.md",
+    "Pasted image 20240923204207.png",
+    "Pasted image 20240923203802.png",
+    "picobrowser.md",
     "Pasted image 20240918142510.png",
     "Clientsideagain.md",
-    "picobrowser.md",
     "Pasted image 20240918140810.png",
     "dont-use-client-side.md",
     "Pasted image 20240918133202.png",
@@ -179,18 +189,12 @@
     "where are the robots.md",
     "Pasted image 20240918102255.png",
     "Time Machine.md",
-    "Pasted image 20240917224227.png",
     "Super SSH.md",
-    "Pasted image 20240917223947.png",
     "repetitions.md",
-    "Pasted image 20240917223730.png",
     "First Find.md",
-    "Pasted image 20240917223615.png",
-    "Pasted image 20240917223605.png",
     "Commitment Issues.md",
     "Collaborative Development.md",
     "Blame Game.md",
-    "Pasted image 20240917223126.png",
     "binhexa.md",
     "Binary Search.md",
     "fixme 2.md",
@@ -200,10 +204,6 @@
     "useless.md",
     "Special.md",
     "Serpentine.md",
-    "PW Crack 3.md",
-    "plumbing.md",
-    "Permissions.md",
-    "chrono.md",
     "Untitled.canvas",
     "Actividad-8.pdf",
     "Retos"
