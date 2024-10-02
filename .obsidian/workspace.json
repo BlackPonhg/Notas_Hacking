@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scavenger Hunt.md",
+                "file": "Trickster.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scavenger Hunt.md",
+                "file": "Trickster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scavenger Hunt.md",
+                "file": "Trickster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scavenger Hunt.md"
+                "file": "Trickster.md"
               }
             }
           }
@@ -168,26 +168,31 @@
   },
   "active": "8486b7c7d6bd1989",
   "lastOpenFiles": [
+    "Pasted image 20241002004935.png",
+    "Cookies.md",
+    "Trickster.md",
+    "fixme1.md",
+    "SOAP.md",
+    "Pasted image 20241002002031.png",
+    "Most Cookies.md",
+    "Pasted image 20241002000123.png",
+    "Pasted image 20241002000117.png",
+    "MatchTheRegex.md",
+    "Pasted image 20240930112930.png",
+    "Scavenger Hunt.md",
     "Pasted image 20240923225605.png",
     "GET aHEAD.md",
-    "Scavenger Hunt.md",
     "Pasted image 20240923224907.png",
-    "Cookies.md",
     "Pasted image 20240923222936.png",
     "JaWT Scratchpad.md",
     "Pasted image 20240923211556.png",
     "Pasted image 20240923211545.png",
     "Pasted image 20240923205548.png",
     "Irish-Name-Repo 3.md",
-    "Pasted image 20240923204745.png",
     "Irish-Name-Repo 1.md",
     "Irish-Name-Repo 2.md",
-    "Pasted image 20240923204207.png",
-    "Pasted image 20240923203802.png",
     "picobrowser.md",
-    "Pasted image 20240918142510.png",
     "Clientsideagain.md",
-    "Pasted image 20240918140810.png",
     "dont-use-client-side.md",
     "logon.md",
     "where are the robots.md",
@@ -199,11 +204,6 @@
     "Collaborative Development.md",
     "Blame Game.md",
     "binhexa.md",
-    "Binary Search.md",
-    "fixme 2.md",
-    "Big Zip.md",
-    "Bases.md",
-    "CodeBook.md",
     "Untitled.canvas",
     "Actividad-8.pdf",
     "Retos"
