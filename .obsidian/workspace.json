@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trickster.md",
+                "file": "What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trickster.md",
+                "file": "What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trickster.md",
+                "file": "What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trickster.md"
+                "file": "What Lies Within.md"
               }
             }
           }
@@ -168,9 +168,18 @@
   },
   "active": "8486b7c7d6bd1989",
   "lastOpenFiles": [
+    "Pasted image 20241003210452.png",
+    "So Meta.md",
+    "What Lies Within.md",
+    "Pasted image 20241003210111.png",
+    "shark on wire 1.md",
+    "Pasted image 20241003205355.png",
+    "Glory of the Garden.md",
+    "Pasted image 20241003204840.png",
+    "Imagen de WhatsApp 2024-10-02 a las 11.09.09_24a371a4.jpg",
+    "Trickster.md",
     "Pasted image 20241002004935.png",
     "Cookies.md",
-    "Trickster.md",
     "fixme1.md",
     "SOAP.md",
     "Pasted image 20241002002031.png",
@@ -182,12 +191,7 @@
     "Scavenger Hunt.md",
     "Pasted image 20240923225605.png",
     "GET aHEAD.md",
-    "Pasted image 20240923224907.png",
-    "Pasted image 20240923222936.png",
     "JaWT Scratchpad.md",
-    "Pasted image 20240923211556.png",
-    "Pasted image 20240923211545.png",
-    "Pasted image 20240923205548.png",
     "Irish-Name-Repo 3.md",
     "Irish-Name-Repo 1.md",
     "Irish-Name-Repo 2.md",
@@ -200,10 +204,6 @@
     "Super SSH.md",
     "repetitions.md",
     "First Find.md",
-    "Commitment Issues.md",
-    "Collaborative Development.md",
-    "Blame Game.md",
-    "binhexa.md",
     "Untitled.canvas",
     "Actividad-8.pdf",
     "Retos"
