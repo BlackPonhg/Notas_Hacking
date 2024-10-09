@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What Lies Within.md",
+                "file": "c0rrupt.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What Lies Within.md",
+                "file": "c0rrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What Lies Within.md",
+                "file": "c0rrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What Lies Within.md"
+                "file": "c0rrupt.md"
               }
             }
           }
@@ -168,9 +168,25 @@
   },
   "active": "8486b7c7d6bd1989",
   "lastOpenFiles": [
+    "Cookies.md",
+    "c0rrupt.md",
+    "Collaborative Development.md",
+    "like1000.md",
+    "Big Zip.md",
+    "Bases.md",
+    "Binary Search.md",
+    "chrono.md",
+    "CodeBook.md",
+    "converme.md",
+    "m00nwalk.md",
+    "Blame Game.md",
+    "Pasted image 20240917182015.png",
+    "LEVEL 1.md",
+    "shark on wire 2.md",
+    "Pasted image 20241009000501.png",
+    "What Lies Within.md",
     "Pasted image 20241003210452.png",
     "So Meta.md",
-    "What Lies Within.md",
     "Pasted image 20241003210111.png",
     "shark on wire 1.md",
     "Pasted image 20241003205355.png",
@@ -179,31 +195,15 @@
     "Imagen de WhatsApp 2024-10-02 a las 11.09.09_24a371a4.jpg",
     "Trickster.md",
     "Pasted image 20241002004935.png",
-    "Cookies.md",
     "fixme1.md",
     "SOAP.md",
     "Pasted image 20241002002031.png",
     "Most Cookies.md",
     "Pasted image 20241002000123.png",
-    "Pasted image 20241002000117.png",
     "MatchTheRegex.md",
-    "Pasted image 20240930112930.png",
     "Scavenger Hunt.md",
-    "Pasted image 20240923225605.png",
     "GET aHEAD.md",
     "JaWT Scratchpad.md",
-    "Irish-Name-Repo 3.md",
-    "Irish-Name-Repo 1.md",
-    "Irish-Name-Repo 2.md",
-    "picobrowser.md",
-    "Clientsideagain.md",
-    "dont-use-client-side.md",
-    "logon.md",
-    "where are the robots.md",
-    "Time Machine.md",
-    "Super SSH.md",
-    "repetitions.md",
-    "First Find.md",
     "Untitled.canvas",
     "Actividad-8.pdf",
     "Retos"
