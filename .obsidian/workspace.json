@@ -58,9 +58,89 @@
               "icon": "lucide-file",
               "title": "Wireshark twoo twooo two twoo"
             }
+          },
+          {
+            "id": "730a2163cd639cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL Direct.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL Direct"
+            }
+          },
+          {
+            "id": "9c5a1ae739614e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pitter, Patter, Platters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pitter, Patter, Platters"
+            }
+          },
+          {
+            "id": "d7cc6e78ddb07d9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vaul door training.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vaul door training"
+            }
+          },
+          {
+            "id": "a3ca744159f36589",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "resueltos/Pasted image 20241026180951.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241026180951"
+            }
+          },
+          {
+            "id": "779563519131be37",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "resueltos/Pasted image 20241026182320.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241026182320"
+            }
+          },
+          {
+            "id": "bd2eec59a364e38a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault-door-5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vault-door-5"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -132,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wireshark twoo twooo two twoo.md",
+                "file": "vault-door-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +222,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wireshark twoo twooo two twoo"
+              "title": "Backlinks for vault-door-5"
             }
           },
           {
@@ -200,46 +280,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0987a90a741b6f4b",
+  "active": "bd2eec59a364e38a",
   "lastOpenFiles": [
-    "Pasted image 20241026233050.png",
-    "St3g0.md",
-    "Wireshark twoo twooo two twoo.md",
-    "Pasted image 20241026232805.png",
-    "Redaction gone wrong.md",
-    "Pasted image 20241026232216.png",
-    "Pitter, Patter, Platters.md",
-    "Pasted image 20241026231748.png",
-    "Lookey here.md",
-    "Pasted image 20241026231358.png",
-    "Disk, disk, sleuth.md",
-    "Pasted image 20241026230506.png",
-    "Secret of the Polyglot.md",
-    "Pasted image 20241026224915.png",
-    "Pasted image 20241026224429.png",
-    "PcapPoisoning.md",
-    "Pasted image 20241026224019.png",
-    "Packets Prime.md",
-    "Pasted image 20241026223756.png",
-    "MSB.md",
-    "FindAndOpen.md",
-    "Pasted image 20241026222619.png",
-    "Enhance.md",
-    "Eavesdrop.md",
-    "Wave a flag.md",
-    "information.md",
-    "Who are you.md",
-    "Roboto Sans.md",
-    "JaWT Scratchpad.md",
-    "login.md",
-    "Java Code Analysis.md",
-    "It is my Birthday.md",
-    "So Meta.md",
-    "spect HTML.md",
-    "caas.md",
-    "Unminify.md",
-    "Untitled.canvas",
-    "Actividad-8.pdf",
+    "Pasted image 20241029222430.png",
+    "vault-door-4.md",
+    "vault-door-5.md",
+    "Pasted image 20241029222213.png",
+    "vault-door-3.md",
+    "Pasted image 20241029221720.png",
+    "vault-door-1.md",
+    "Pasted image 20241029215624.png",
+    "resueltos/Serpentine.md",
+    "resueltos/Pasted image 20241026180951.png",
+    "vault-dorr.training.md",
+    "resueltos/Pasted image 20241026182320.png",
+    "vaul door training.md",
+    "resueltos/Pasted image 20241029215114.png",
+    "resueltos/Plantilla.md",
+    "resueltos/Pitter, Patter, Platters.md",
+    "resueltos/SQL Direct.md",
+    "resueltos/Wireshark twoo twooo two twoo.md",
+    "resueltos",
+    "resueltos/Pasted image 20241026233050.png",
+    "resueltos/St3g0.md",
+    "resueltos/Pasted image 20241026232805.png",
+    "resueltos/Redaction gone wrong.md",
+    "resueltos/Pasted image 20241026232216.png",
+    "resueltos/Pasted image 20241026231748.png",
+    "resueltos/Lookey here.md",
+    "resueltos/Disk, disk, sleuth.md",
+    "resueltos/Secret of the Polyglot.md",
+    "resueltos/PcapPoisoning.md",
+    "resueltos/Packets Prime.md",
+    "resueltos/MSB.md",
+    "resueltos/FindAndOpen.md",
+    "resueltos/Enhance.md",
+    "resueltos/Eavesdrop.md",
+    "resueltos/Wave a flag.md",
+    "resueltos/information.md",
+    "resueltos/Who are you.md",
+    "resueltos/Untitled.canvas",
+    "resueltos/Actividad-8.pdf",
     "Retos"
   ]
 }
