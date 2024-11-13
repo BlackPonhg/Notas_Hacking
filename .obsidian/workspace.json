@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ams 3.md",
+                "file": "Stonks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ams 3"
+              "title": "Stonks"
             }
           }
         ],
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ams 3.md",
+                "file": "Stonks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ams 3"
+              "title": "Backlinks for Stonks"
             }
           },
           {
@@ -296,6 +296,16 @@
   },
   "active": "1b0324d179aff9ac",
   "lastOpenFiles": [
+    "Pasted image 20241112234521.png",
+    "RPS.md",
+    "Stonks.md",
+    "Pasted image 20241112233457.png",
+    "flag leak.md",
+    "Pasted image 20241112233120.png",
+    "buffer overflow 0.md",
+    "Pasted image 20241112232650.png",
+    "basic-file-exploit.md",
+    "Pasted image 20241112232330.png",
     "ams 3.md",
     "Pasted image 20241105231755.png",
     "Pasted image 20241105225140.png",
@@ -309,13 +319,9 @@
     "resueltos/Picker IV.md",
     "resueltos/Pasted image 20241031004245.png",
     "resueltos/Picker III.md",
-    "resueltos/Pasted image 20241031003752.png",
     "resueltos/Picker II.md",
-    "resueltos/Pasted image 20241031002456.png",
     "resueltos/Picker I.md",
-    "resueltos/Pasted image 20241031002009.png",
     "resueltos/vault-door-5.md",
-    "resueltos/Pasted image 20241029222430.png",
     "resueltos/vault-door-4.md",
     "resueltos/vault-door-3.md",
     "resueltos/vault-door-1.md",
@@ -327,12 +333,6 @@
     "resueltos/SQL Direct.md",
     "resueltos/Wireshark twoo twooo two twoo.md",
     "resueltos",
-    "resueltos/St3g0.md",
-    "resueltos/Redaction gone wrong.md",
-    "resueltos/Lookey here.md",
-    "resueltos/Disk, disk, sleuth.md",
-    "resueltos/Secret of the Polyglot.md",
-    "resueltos/PcapPoisoning.md",
     "resueltos/Untitled.canvas",
     "resueltos/Actividad-8.pdf",
     "Retos"
