@@ -152,9 +152,23 @@
               "icon": "lucide-file",
               "title": "Stonks"
             }
+          },
+          {
+            "id": "0f5b1ce2de186258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unpackme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unpackme"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -226,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stonks.md",
+                "file": "unpackme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +250,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stonks"
+              "title": "Backlinks for unpackme"
             }
           },
           {
@@ -294,44 +308,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b0324d179aff9ac",
+  "active": "0f5b1ce2de186258",
   "lastOpenFiles": [
-    "Pasted image 20241112234521.png",
-    "RPS.md",
-    "Stonks.md",
-    "Pasted image 20241112233457.png",
-    "flag leak.md",
-    "Pasted image 20241112233120.png",
-    "buffer overflow 0.md",
-    "Pasted image 20241112232650.png",
-    "basic-file-exploit.md",
-    "Pasted image 20241112232330.png",
-    "ams 3.md",
-    "Pasted image 20241105231755.png",
-    "Pasted image 20241105225140.png",
-    "ams 1.md",
-    "ams 2.md",
-    "Pasted image 20241105224847.png",
+    "keygenme-py.md",
+    "unpackme.md",
+    "Pasted image 20241122234004.png",
+    "Transformation.md",
+    "Pasted image 20241122232819.png",
+    "GDB baby step 1.md",
+    "crackme-py.md",
+    "Pasted image 20241122231212.png",
+    "Bit-O-Asm-4.md",
+    "Bit-O-Asm-3.md",
+    "Bit-O-Asm-2.md",
+    "Bit-O-Asm-1.md",
+    "ASCII FTW.md",
+    "Pasted image 20241122225148.png",
+    "SRA.md",
+    "Play Nice.md",
+    "Pasted image 20241122224708.png",
+    "Vigenere.md",
+    "substitution2.md",
+    "Pasted image 20241122203856.png",
+    "substitution1.md",
+    "substitution 0.md",
+    "Pasted image 20241122203254.png",
+    "rotation 1.md",
+    "rotation.md",
+    "Pasted image 20241122201412.png",
+    "No Padding, No Problem.md",
+    "New Caesar.md",
+    "Mr-Worldwide.md",
+    "john_pollard.md",
+    "Flags.md",
     "timer.md",
-    "resueltos/Pasted image 20241031004715.png",
-    "resueltos/Safe Opener 2.md",
-    "resueltos/Pasted image 20241031004509.png",
-    "resueltos/Picker IV.md",
-    "resueltos/Pasted image 20241031004245.png",
-    "resueltos/Picker III.md",
-    "resueltos/Picker II.md",
-    "resueltos/Picker I.md",
-    "resueltos/vault-door-5.md",
-    "resueltos/vault-door-4.md",
-    "resueltos/vault-door-3.md",
-    "resueltos/vault-door-1.md",
-    "resueltos/Serpentine.md",
-    "vault-dorr.training.md",
-    "resueltos/vaul door training.md",
-    "resueltos/Plantilla.md",
-    "resueltos/Pitter, Patter, Platters.md",
-    "resueltos/SQL Direct.md",
-    "resueltos/Wireshark twoo twooo two twoo.md",
+    "Stonks.md",
+    "resueltos/flag leak.md",
+    "Pasted image 20241122200531.png",
+    "resueltos/Pasted image 20241112234521.png",
     "resueltos",
     "resueltos/Untitled.canvas",
     "resueltos/Actividad-8.pdf",
